@@ -1,0 +1,43 @@
+.esquerdo{
+width: 300px;
+height:950px;
+background-color: white;
+}
+
+.meio{
+    width: 300px;
+    height:950px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.direito{
+
+}
+
+body{
+    background-color: black;
+}
+
+.barra-lateral{
+    display: table;
+    vertical-align: middle;
+}
+
+svg{
+    display: table;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+}
+
+.twiter{
+    width: 250px;
+    height: 250px;
+}
+
+.tuiter{
+    width: 250px;
+    height: 250px;
+}
